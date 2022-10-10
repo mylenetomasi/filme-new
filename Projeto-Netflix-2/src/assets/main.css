@@ -1,0 +1,14 @@
+@import "./base.css";
+
+h1{
+  color:rgb(255, 208, 0);
+}
+#cor1{
+  color: rgb(255, 208, 0);
+}
+main{
+  background-color: black;
+}
+h2{
+  color: #ffff;
+}
